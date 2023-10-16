@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\georg\source\repos\lab3CSnew\Source.cpp(58,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\georg\source\repos\lab3CSnew\Source.cpp(250,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\georg\source\repos\lab3CSnew\Source.cpp(262,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lab3CSnew.vcxproj -> C:\Users\georg\source\repos\lab3CSnew\x64\Debug\lab3CSnew.exe
